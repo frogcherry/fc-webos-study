@@ -1,0 +1,9 @@
+{
+	"id": "com.ooobgy.ajaxremoteserver",
+	"version": "1.0.0",
+	"vendor": "ooobgy",
+	"type": "web",
+	"main": "index.html",
+	"title": "ajax-remote-server",
+	"icon": "icon.png"
+}
